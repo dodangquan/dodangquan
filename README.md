@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- PGP fingerprint: `5F98 3E21 D2AA 83CF AACC  3669 56E8 2D6C D8AA 70E8`
+
 <!--
 **dodangquan/dodangquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
